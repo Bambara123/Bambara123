@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bambara123&label=Profile%20views&color=0e75b6&style=flat" alt="bambara123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bambara123" alt="bambara123" /></a> </p>
-
 - 🌱 I’m currently learning **machine learning**
 
 - 👯 I’m looking for **internship.**
