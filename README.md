@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Kavindu</h1>
-<h3 align="center">I'm computer engineering undergraduate from Sri Lanka.</h3>
+<h3 align="center">Computer Engineering Undergraduate</h3>
 
+<div align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.facebook.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="Facebook logo" />
+  </a>
+  <img width="12" />
+  <a href="https://twitter.com/">
+    <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="Twitter logo" />
+  </a>
+  <img width="12" />
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+Guys!+🚀++;Checkout+my+projects)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bambara123&label=Profile%20views&color=0e75b6&style=flat" alt="bambara123" /> </p>
 
 - 🌱 I’m currently learning **machine learning**
@@ -11,7 +27,7 @@
 
 - 📫 How to reach me **kavindubambaragama@gmail.com**
 
-<h3 align="center">My Statistics</h3>
+## My Statistics
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -27,36 +43,57 @@
 </tr>
 </table>
 
+## Languages
 
-### Languages
----
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-
-### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
 
 
+## Technologies and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bambara123&show_icons=true&locale=en&layout=compact" alt="bambara123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bambara123&show_icons=true&locale=en" alt="bambara123" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bambara123&" alt="bambara123" /></p>
+
+
