@@ -20,7 +20,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+Guys!+🚀++;Have+a+look+at+my+portfolio)](https://git.io/typing-svg)
 
-
 ## About me
 
 - 🎓 I’m currently **following my computer engineering degree.**
