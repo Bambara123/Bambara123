@@ -2,11 +2,11 @@
 <h3 align="center">💻 Computer Engineering Undergraduate | University of Peradeniya 🎓</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://lk.linkedin.com/in/kavindu-bambaragama-033b97265">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />
   </a>
   <img width="12" />
-  <a href="https://www.facebook.com/">
+  <a href="https://www.facebook.com/kavindu.bambaragama.58/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="Facebook logo" />
   </a>
   <img width="12" />
