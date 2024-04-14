@@ -24,7 +24,7 @@
 
 - 🎓 I’m currently **following my computer engineering degree.**
 
-- 🤝 I’m looking for **internship.**
+- 🤝 I’m looking for an **internship.**
 
 - 💻 Ask me about **web development**
 
