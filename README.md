@@ -24,7 +24,7 @@
 
 - 🎓 I’m currently **following my computer engineering degree.**
 
-- 🤝 I’m looking for an **internship.**
+- 🤝 I’m working as software engineering intern at ....
 
 - 💻 Ask me about **web development**
 
