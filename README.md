@@ -24,7 +24,7 @@
 
 - 🎓 I’m currently **following my computer engineering degree.**
 
-- 🤝 I’m working as software engineering intern at ....
+- 🤝 I’m worked as software engineering intern at <a href="[http](https://gtngroup.com/global/home/)">GTN Technologies.</a>
 
 - 💻 Ask me about **web development**
 
