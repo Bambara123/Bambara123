@@ -97,6 +97,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="mysql logo"  />
 </div>
 
 ## Top Repositories
