@@ -22,9 +22,9 @@
 
 ## About me
 
-- 🎓 I’m currently **following my computer engineering degree.**
+- 🎓 I’m  **following my computer engineering degree.**
 
-- 🤝 I worked as a software engineering intern at <a href="https://gtngroup.com/global/home">GTN Technologies.</a>
+- 🤝 I'm currently working as a software engineer  at <a href="https://gtngroup.com/global/home">GTN Technologies.</a>
 
 - 💻 Ask me about **web development**
 
