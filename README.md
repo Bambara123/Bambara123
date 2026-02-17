@@ -24,7 +24,7 @@
 
 - 🎓 I’m  **following my computer engineering degree.**
 
-- 🤝 I'm currently working as a software engineer  at <a href="https://gtngroup.com/global/home">GTN Technologies.</a>
+- 🤝 I'm currently working as a frontend software engineer  at <a href="https://gtngroup.com/global/home">GTN Technologies.</a>
 
 - 💻 Ask me about **web development**
 
